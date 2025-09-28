@@ -6,7 +6,7 @@ Seja bem-vindo(a) ao meu perfil do Git Hub!
 
 - Sou estudante de Análise e Desenvolvimento de Sistemas.
 
-- Atualmente possuo conhecimentos em UI/UX Design, utilizo ferramentes como Figma e estudo todos os fundamentos e aplicações de design como um todo.
+- Atualmente possuo conhecimentos em UX/UI Design, utilizo ferramentes como Figma e estudo todos os fundamentos e aplicações de design como um todo.
 
 -  Tenho me dedicado para aprender a desenvolver aplicações Front-End (Html, CSS, Java Script).
 
