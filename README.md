@@ -12,7 +12,5 @@ Seja bem-vindo(a) ao meu perfil do Git Hub!
 
 ### 💻 Conecte-se comigo
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nathvasconcellos)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathalia-vasconcellos-de-souza/)
 
