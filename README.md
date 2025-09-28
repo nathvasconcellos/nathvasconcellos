@@ -1,6 +1,6 @@
 # 🖤 Olá, eu sou a Nathalia
 
-Seja bem-vindo ao meu perfil do Git Hub!
+Seja bem-vindo(a) ao meu perfil do Git Hub!
 
 ## 👩🏻 Sobre mim
 
